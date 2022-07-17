@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Vue, React, JavaScript**
 - 📝 Focus on [Code-editor](https://github.com/F-one-1/vue-highlight-code)
 - 👨‍💻 My QQ is [1033409628](1033409628)
-- 📫 How to reach me **fy1033409628@163.com**
+- 📫 How to reach me **1033409628@qq.com**
 - ⚡ Fun fact **I think I am a interesting person**
 
 
