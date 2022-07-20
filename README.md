@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Vue, React, JavaScript**
 - 📝 Focus on [bitSandBox-demo](https://f-one-1.github.io/bitSandBox/)
-- 👨‍💻 My QQ is [1033409628](1033409628)
 - 📫 How to reach me **1033409628@qq.com**
 - ⚡ Fun fact **I think I am a interesting person**
 
