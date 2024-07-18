@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Fany</h1>
-<h3 align="center">A curious front-end developer</h3>
+<h3 align="center">A curious development engineer</h3>
 
-- 🌱 I’m currently learning **Vue, React, JavaScript**
+- 🌱 I’m currently learning **Vue, React, JavaScript, Java, Mysql**
 - 📝 Focus on [bitSandBox-demo](https://f-one-1.github.io/bitSandBox/)
 - 📫 How to reach me **1033409628@qq.com**
 - ⚡ Fun fact **I think I am a interesting person**
